@@ -18,22 +18,22 @@ Subject codes are integers representing each of the 30 subjects.
 
 Descriptive activity labels were obtained by matching the activity codes in y_train.txt and y_test.txt 
 with the descriptive names in activity_labels.txt.  There are six such activity levels:
-1. WALKING
-2. WALKING_UPSTAIRS
-3. WALKING_DOWNSTAIRS
-4. SITTING
-5. STANDING
-6. LAYING
+ 1. WALKING
+ 2. WALKING_UPSTAIRS
+ 3. WALKING_DOWNSTAIRS
+ 4. SITTING
+ 5. STANDING
+ 6. LAYING
 
 Variable names were interpreted from "features_info.txt" as follows:
-- t 			Time Domain
-- f			Frequency Domain
-- BodyAcc		Body Linear Acceleration
-- GravityAcc	Gravity Acceleration
-- BodyGyro	Body Angular Velocity
-- Jerk		Jerk Signal
-- Mag			Magnitude
-- XYZ			X, Y or Z direction
+- t :			Time Domain
+- f	:			Frequency Domain
+- BodyAcc :		Body Linear Acceleration
+- GravityAcc :	Gravity Acceleration
+- BodyGyro :	Body Angular Velocity
+- Jerk :		Jerk Signal
+- Mag :			Magnitude
+- XYZ :			X, Y or Z direction
 
 (BodyBody was resolved to Body)
 
