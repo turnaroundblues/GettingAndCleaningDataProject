@@ -86,12 +86,12 @@ as follows:
 Data are grouped by subject and activity and  the average of each variable is then calculated through summarise_each(grouped_data,funs(mean)).
 
 The resulting dataframe in a tidy data set (in wide form) where 
-1.  all of the data for each observation (a unique pair of (subject, activity) are in one unique row across columns
-2.  each variable is in one column and each column represents only one variable.
+ 1.  all of the data for each observation (a unique pair of (subject, activity) are in one unique row across columns
+ 2.  each variable is in one column and each column represents only one variable.
 
 This meets the relevant requirements for tidy data, defined as:
-1) Each variable forms a column
-2) Each observation forms a row
+ 1. Each variable forms a column
+ 2. Each observation forms a row
 
 The 3rd requirement is
 
