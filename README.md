@@ -95,7 +95,7 @@ This meets the relevant requirements for tidy data, defined as:
 
 The 3rd requirement is
 
-	3) Each type of observational unit forms a table 
+ 3 Each type of observational unit forms a table 
 
 but these is only one observational unit here anyway (this dataset).
 
